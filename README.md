@@ -27,8 +27,7 @@ Saturday is the most active day with most no.of steps by the user with 8153 step
 
 ![_     AVG DISTANCE TRACKED ON EACH DAY](https://user-images.githubusercontent.com/125556264/226158899-65c5b60f-29cd-4b6b-b0bb-3ba5c16d71d1.png)
 
-
-
+User on an average covered highest distance of 5.85KM on Saturday,while sunday being the least with 5.03KM. As far as the trend is concerened it is increasing from the midweek to the peak on saturday.
 
 ->
 
