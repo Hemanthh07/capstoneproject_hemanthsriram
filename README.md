@@ -16,3 +16,6 @@ Bellabeat was founded in 2013 by Urška Sršen and Sando Mur, a high-tech compan
 ## Analysis
 
 In the process of analysis converted the dates into weekdays in ordr to track the trend over a week and plotting the against the active data such as steps,distance covered and calories burned on average per day.
+->
+
+![_                    TotalSteps vs  Weekday (1)](https://user-images.githubusercontent.com/125556264/226158222-a9883ead-c37e-4583-b908-886244a72d0d.png)
