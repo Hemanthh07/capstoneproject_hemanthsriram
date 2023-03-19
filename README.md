@@ -19,3 +19,6 @@ In the process of analysis converted the dates into weekdays in ordr to track th
 ->
 
 ![_                    TotalSteps vs  Weekday (1)](https://user-images.githubusercontent.com/125556264/226158222-a9883ead-c37e-4583-b908-886244a72d0d.png)
+
+Saturday is the most active day with most no.of steps by the user with 8153 steps,followed by tuesday and least being the sunday with 6933 steps
+
