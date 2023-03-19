@@ -80,3 +80,5 @@ Based on the insights from the analysis.The following recommendations can help m
 
 ->__Outdoor Campaigns__ : Creating offline campaigns such as spreading awareness about how fitness and sleep is important to the health and how Bellabeat fitness tracker can help them to increase their fitness and health.
 
+
+
