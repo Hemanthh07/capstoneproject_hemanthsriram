@@ -49,6 +49,7 @@ Saturday is the most active day with most no.of steps by the user with 8153 step
 
 ![_                 MinutesAsleep VS Calories](https://user-images.githubusercontent.com/125556264/226159235-399b1536-cacc-41bc-9096-75dc09a5c16c.png)
 
+This scatter plot showcases the relation between total minutes asleep against the calories burned on that particular day
 
 ->
 
@@ -60,6 +61,6 @@ Saturday is the most active day with most no.of steps by the user with 8153 step
 ![_ AVG INTENSITY THROUGHOUT THE DAY](https://user-images.githubusercontent.com/125556264/226159258-dec59b28-e945-4b54-a840-cb08d3891e7e.png)
 
 
-##Recommendations
+## Recommendations
 
 
