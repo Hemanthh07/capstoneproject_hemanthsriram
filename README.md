@@ -66,8 +66,17 @@ The Average intensity of the user is in increasing trend from afternoon to eveni
 
 ## Recommendations
  
-Based on the insights from the analysis.The following recommendations can help marketing team of Bellabeat can create new marketing strategy for their product- Bellabeat Fitness tracker
+Based on the insights from the analysis.The following recommendations can help marketing team of Bellabeat can create new marketing strategy for their product- Bellabeat Fitness tracker.
 
 ### Marketing Strategy
 
+-> __Influencer Marketing__: Bellabeat company can collaborate with influencers who are into fitness industry who can promote the features and benefits of the Fitness tracker such as sleep,heartrate and calorie burn tracking throughout the day through their promotional content.
+
+-> __Interactive Marketing__: Interacting with the customers an users in the form of app notifications and emails about the remainders such as sleep,workout and stading remainders and also any updates within the features can be marketed.
+
+->__Video and Audio Content__ :Bellabeat company can create their own content and promote the featuers and run online campaigns about their products and featues by creating channels in several social media platforms.
+
+->__Account based Marleting__ : Based on customer preferences and type of the body condition the user is in the company can suggest features such as type of workout,heartrate and sleep alarms and they can market these featuers as part of their promotion.
+
+->__Outdoor Campaigns__ : Creating offline campaigns such as spreading awareness about how fitness and sleep is important to the health and how Bellabeat fitness tracker can help them to increase their fitness and health.
 
