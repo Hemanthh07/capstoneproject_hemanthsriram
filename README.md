@@ -39,6 +39,7 @@ Saturday is the most active day with most no.of steps by the user with 8153 step
 
 ![_            DISTRIBUTION OF ACTIVE MINUTES (1)](https://user-images.githubusercontent.com/125556264/226159203-36b90630-6d86-4336-a331-f9ee115479ac.png)
 
+81% of the total active minutes of the user is in sedentary stage followed by lightly active stage which occupies 15.8% of the active time and the user is in very active stage only for 1.7% of the total active time.
 
 ->
 
@@ -48,18 +49,24 @@ Saturday is the most active day with most no.of steps by the user with 8153 step
 ->
 
 ![_                 MinutesAsleep VS Calories](https://user-images.githubusercontent.com/125556264/226159235-399b1536-cacc-41bc-9096-75dc09a5c16c.png)
+
 This scatter plot showcases the relation between total minutes asleep against the calories burned on that particular day
 
 ->
 
 ![_   CALORIES BURNED THROUGHOUT A DAY](https://user-images.githubusercontent.com/125556264/226159245-466fb4cd-31c0-4a6b-a0e7-ea070dd3f011.png)
+
 Most of the total daily calories are burned during the evenings the most being at 6:00PM with 127cal in the evening followed by 9:00PM with 115cal and also during the morning at 9:00AM.This is the ideal time where the users are away from work and are in moving state.
 
 ->
 
 ![_ AVG INTENSITY THROUGHOUT THE DAY](https://user-images.githubusercontent.com/125556264/226159258-dec59b28-e945-4b54-a840-cb08d3891e7e.png)
+
 The Average intensity of the user is in increasing trend from afternoon to evening with peak being at 6:00PM and with decreasing trend towars the end of the day and is stable during the work hours of the users.
 
 ## Recommendations
+ 
+Based on the insights from the analysis.The following recommendations can help marketing team of Bellabeat can create new marketing strategy for their product- Bellabeat Fitness tracker
 
+## Marketing Strategy
 
