@@ -33,6 +33,7 @@ User on an average covered highest distance of 5.85KM on Saturday,while sunday b
 
 ![_   AVG CALORIES BURNED ON EACH DAY](https://user-images.githubusercontent.com/125556264/226159189-37132266-23d7-4d03-af33-7b7c2879fd5f.png)
 
+Based on the distance tracked each day, most of the calories are burned as the week progress towards the weekend.The most calories 2355cal are burned on saturday followed by tuesday and friday with 2300cal.
 
 ->
 
@@ -67,5 +68,6 @@ The Average intensity of the user is in increasing trend from afternoon to eveni
  
 Based on the insights from the analysis.The following recommendations can help marketing team of Bellabeat can create new marketing strategy for their product- Bellabeat Fitness tracker
 
-## Marketing Strategy
+### Marketing Strategy
+
 
